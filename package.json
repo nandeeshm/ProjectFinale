@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "amazon-cognito-identity-js": "^4.3.3",
-    "aws-sdk": "^2.729.0",
+    "aws-sdk": "^2.814.0",
     "core-js": "^3.6.5",
     "dotenv": "^8.2.0",
     "vue": "^2.6.11",
